@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Programming Language
-![Python, C-Sharp, Lua, R](https://skillicons.dev/icons?i=python,cs,lua,r&perline=3)
+![Python, C-Sharp, Lua, R](https://skillicons.dev/icons?i=python,cs,lua,r&perline=4)
 ## Databases
 ![SQLite3, PostgreSQL](https://skillicons.dev/icons?i=sqlite,postgresql)
 
