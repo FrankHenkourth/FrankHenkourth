@@ -9,11 +9,11 @@ FrankHenkourth/FrankHenkourth is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-### Programming Language
+## Programming Language
 ![Python3](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-CSharp-3776AB?logo=csharp&logoColor=white&style=for-the-badge)
 
-### Databases
+## Databases
 ![Sqlite3](https://img.shields.io/badge/-sqlite-336791?logo=sqlite&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
