@@ -14,8 +14,9 @@ You can click the Preview link to take a look at your changes.
 ![C#](https://img.shields.io/badge/-CSharp-3776AB?logo=csharp&logoColor=white&style=for-the-badge)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Sqlite3](https://img.shields.io/badge/-sqlite-336791?logo=sqlite&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+
 
 
 #### Python es una P1ng4
