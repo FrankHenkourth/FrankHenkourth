@@ -9,10 +9,12 @@ FrankHenkourth/FrankHenkourth is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-## Programming Language
+## Programming
 ![Python, C++, Lua, R](https://skillicons.dev/icons?i=python,cpp,lua,r&perline=4)
 ## Databases
-![SQLite3, PostgreSQL](https://skillicons.dev/icons?i=sqlite,postgresql)
+![SQLite3, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=sqlite,postgresql,mongodb)
+## Tools
+![VSCode, Azure, Git](https://skillicons.dev/icons?i=vscode,azure,git)
 
 
 
