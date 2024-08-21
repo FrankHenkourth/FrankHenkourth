@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ## Programming
 ![Python, C, C++, C#, Lua, R](https://skillicons.dev/icons?i=python,c,cpp,cs,lua,r&perline=6)
 ## Databases
-![SQLite3, PostgreSQL, MongoDB, MySQL, Oracle](https://skillicons.dev/icons?i=sqlite,postgresql,mongodb,mysql,oracle)
+![SQLite3, PostgreSQL, MongoDB, MySQL, Oracle](https://skillicons.dev/icons?i=sqlite,postgresql,mongodb,mysql,oracledb)
 ## Tools
 ![VSCode, Azure, Git](https://skillicons.dev/icons?i=vscode,azure,git)
 
