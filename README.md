@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ## Databases
 ![SQLite3, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=sqlite,postgresql,mongodb)
 ## Tools
-![VSCode, Azure, Git, Bash](https://skillicons.dev/icons?i=vscode,azure,git,bash)
+![VSCode, Azure, Git, Bash, .Net](https://skillicons.dev/icons?i=vscode,azure,git,bash,net)
 
 
 
