@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @FrankHenkourth
+# I’m @FrankHenkourth
 No se Programar y no me interesa.
 Tampoco se Ingles y no me interesa.
 Soy los tristes despojos que quedaron de un analista de datos.
