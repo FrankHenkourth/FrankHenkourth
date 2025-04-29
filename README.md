@@ -12,9 +12,11 @@ You can click the Preview link to take a look at your changes.
 ## Programming
 ![Python, C, C++, C#, Lua, R](https://skillicons.dev/icons?i=python,c,cpp,cs,lua,r&perline=6)
 ## Databases
-![SQLite3, PostgreSQL, MongoDB, MariaDB](https://skillicons.dev/icons?i=sqlite,postgresql,mongodb,mariadb)
+![SQLite3, PostgreSQL, MongoDB, DynbamoDB](https://skillicons.dev/icons?i=sqlite,postgresql,mongodb,dynamodb)
+## Development Platform
+![.NET, Anaconda, GTK](https://skillicons.dev/icons?i=dotnet,anaconda,gtk)
 ## Tools
-![VSCode, Azure, Git, Bash, .Net](https://skillicons.dev/icons?i=vscode,azure,git,bash,net)
+![VSCode, Azure, Git, Bash, Kafka](https://skillicons.dev/icons?i=vscode,azure,git,bash,kafka)
 
 
 
